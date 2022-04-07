@@ -1,7 +1,7 @@
 '''
 Instrucciones:
 
-Escribe el codigo que le pida 4 datos al usuario los siguientes datos
+Escribe el codigo que le pida al usuario los siguientes 4 datos
     1) Su nombre
     2) Su apellido
     3) Un numero x
